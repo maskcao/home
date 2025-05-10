@@ -1,17 +1,17 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://www.maskcao.top/"
+    "name": "博客-Notionnext",
+    "link": "https://blog.maskcao.top/"
   },
   {
     "icon": "Blog",
-    "name": "博客2",
+    "name": "博客-Vitepress",
     "link": "https://www.m4sk.cn/"
   },
   {
     "icon": "CompactDisc",
-    "name": "叶川科技",
+    "name": "叶川科技-主页",
     "link": "https://link3.cc/maskcao"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "icon": "Book",
-    "name": "Gitbook",
+    "name": "叶川科技-Gitbook",
     "link": "https://book.maskcao.top/"
   },
   {
